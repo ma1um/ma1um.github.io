@@ -1,0 +1,7 @@
+main:
+  - title: "Portfolio"
+    url: /Portfolio/
+  - title: "Resume"
+    url: /Resume/
+  #- title: "Other"
+  #  url: /tags/
