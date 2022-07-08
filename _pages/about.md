@@ -2,4 +2,5 @@
 permalink: /Resume/
 title: "Resume"
 ---
-{%pdf "/assets/resume.pdf"%}
+{% pdf "/assets/resume.pdf" %}
+
