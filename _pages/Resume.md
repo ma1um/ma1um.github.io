@@ -1,5 +1,6 @@
 ---
 permalink: /Resume/
 title: "Resume"
+classes: wide
 ---
-<embed src="https://ma1um.github.io/assets/resume.pdf" type="application/pdf" />
+<embed src="/assets/resume.pdf" type="application/pdf" />
