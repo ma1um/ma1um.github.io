@@ -13,6 +13,6 @@ gallery:
 {% include gallery class="full" %}
 
 <audio controls>
-  <source src="/audio/the Descent.mp3" type="audio/mp3">
+  <source src="/audio/The Descent.mp3" type="audio/mp3">
 </audio>
 
