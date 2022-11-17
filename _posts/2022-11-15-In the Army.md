@@ -3,10 +3,10 @@ title: "In The Army"
 categories:
   - Portfolio
 gallery:
-  - url: /assets/images/In the Army 1.jpg
-    image_path: /assets/images/In the Army 1.jpg
-  - url: /assets/images/In the Army 2.jpg
-    image_path: /assets/images/In the Army 2.jpg
+  - url: /assets/images/In the Army 1.png
+    image_path: /assets/images/In the Army 1.png
+  - url: /assets/images/In the Army 2.png
+    image_path: /assets/images/In the Army 2.png
 ---
 {% include gallery class="full" %}
 
