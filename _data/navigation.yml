@@ -3,5 +3,7 @@ main:
     url: /Portfolio/
   - title: "Resume"
     url: /Resume/
+  - title: "CV"
+    url: /CV/
   #- title: "Other"
   #  url: /tags/
