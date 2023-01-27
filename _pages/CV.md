@@ -3,6 +3,7 @@ permalink: /CV/
 title: "CV"
 classes: wide
 ---
+
 **Collaborations:**
 Shelley Odradek: Strange Attractor,
 Foksal Gallery, Warsaw, Poland
